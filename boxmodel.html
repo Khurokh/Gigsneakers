@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body { 
+            margin: 0;
+        }
+        #first {
+            background-color: tomato;
+            padding: 10px;
+            border: 3px solid black;
+            margin: 10px;
+            width: 200px;
+        }
+        #second {
+            background-color: yellow;
+            margin: 15px 10px;
+
+            
+        }
+        p {
+            font-size: 8px;
+            width: 100%;
+        }
+        span {
+            background-color: yellow;
+            padding: 10px;
+            margin: 10px;
+            border: 5px solid black;
+            display: inline-block;
+        }
+        #contentbox {
+            background-color: tomato;
+            width: 200px;
+            padding: 10px;
+        }
+        #borderbox {
+            background-color: green;
+            width: 200px;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <div id="first">
+        Hello my friends!
+        <p>
+            Lorem <span>ipsum</span> dolor sit amet consectetur adipisicing elit. Fugiat sunt adipisci aperiam voluptatem nobis ad aut asperiores eius suscipit animi, iure, minima nostrum odio laboriosam provident aliquam totam, quibusdam alias.
+        </p>
+    </div>
+    <div id="second">
+        Hello my enemies too
+    </div>
+
+    <div id="contentbox">This is content-box</div>
+    <div id="borderbox">This is border-box</div>
+</body>
+</html>

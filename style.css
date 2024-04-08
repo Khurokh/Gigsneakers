@@ -1,0 +1,227 @@
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 70px;
+
+}
+body {
+    background-color:rgba(4, 0, 233, 0.63)
+     
+   
+    
+}
+a {
+    color: rgb(255, 0, 0);  }
+
+
+#header{
+    background-color: black;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+#headline {
+   text-align: center;
+   margin: auto;
+   font-size: 25px;
+   display: inline-block;
+   width: 100%;
+   
+   
+
+    
+    
+}
+
+#we {
+    background-color: rgb(0, 0, 0);
+    border: 3px solid rgba(0, 0, 0, 0.575);
+    padding-left: 30px;
+    color: rgb(131, 6, 233);
+    width: 400px;
+    margin-bottom: 10px; 
+    margin-right: 250px;
+    margin-left: 835px;
+
+    
+    
+}
+
+
+
+
+
+#jordan1 {
+    background-color: rgba(0, 0, 0, 0.822);  
+    padding: 10px; 
+    border: 3px solid aliceblue;
+    border-radius: 3px;
+    padding-right: 0;
+    width: 265px;
+    color: aliceblue;
+    margin: 30px;
+    display: inline-block;
+    height: 378px;
+}
+
+#second{
+    background-color: rgba(0, 0, 0, 0.822);
+    
+    padding: 10px;
+    margin-right:570px; 
+    border: 3px solid aliceblue;
+    width: 255px;
+    color: aliceblue;
+    margin: 30px;
+    display: inline-block;
+}
+    
+#third {
+    background-color: rgba(0, 0, 0, 0.822);
+    border: 3px solid aliceblue;
+    padding: 10px;
+    margin: 30px;
+    width: 255px;
+    color: aliceblue;
+    display: inline-block;
+     }
+#dior{
+    background-color: rgba(0, 0, 0, 0.822);
+    border:3px solid aliceblue;
+    padding: 10px;
+    margin: 30px;
+    width: 255px;
+    color: hotpink;
+    display: inline-block;
+    
+
+}
+
+#samba{
+    background-color: rgba(0, 0, 0, 0.822);
+    border: 3px solid aliceblue;
+    padding:10px;
+    margin: 30px;
+    width: 255px;
+    display: inline-block;
+    
+}
+
+#newbalance {
+    background-color: rgba(0, 0, 0, 0.822);
+    border: 3px solid aliceblue;
+    padding:10px;
+    margin: 30px;
+    width: 255px;
+    display: inline-block; 
+} 
+
+#vans {
+    background-color: rgba(0, 0, 0, 0.822);
+    border: 3px solid aliceblue;
+    padding: 10px;
+    margin: 30px;
+    width: 255px;
+    display: inline-block; 
+}
+    
+#gazelebi {
+    background-color: rgba(0, 0, 0, 0.822);
+    border: 3px solid aliceblue;
+    padding: 10px;
+    margin: 30px;
+    width: 255px;
+    display: inline-block; 
+}
+
+#lobsterebi {
+    background-color: rgba(0, 0, 0, 0.822);
+    border: 3px solid aliceblue;
+    padding: 10px;
+    margin: 30px;
+    width: 255px;
+    display: inline-block; 
+}
+
+#airebi {
+    background-color: rgba(0, 0, 0, 0.822);
+    border: 3px solid aliceblue;
+    padding: 10px;
+    margin: 30px;
+    width: 255px;
+    display: inline-block; 
+}
+
+#travisebi {
+    background-color: rgba(0, 0, 0, 0.822);
+    border: 3px solid aliceblue;
+    padding: 10px;
+    margin: 30px;
+    width: 255px;
+    display: inline-block;
+}
+
+#balancebi {
+    background-color: rgba(0, 0, 0, 0.822);;
+    border: 3px solid aliceblue;
+    padding: 10px;
+    margin: 30px;
+    width: 255px;
+    display: inline-block;
+}
+
+
+
+
+#contactus {
+    color: black;
+    font-size: 40px;
+}
+
+#address{
+    color: black;
+    font-size: 40px;
+}
+
+#khurinho {
+    color:black
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+u{
+    color: red;
+}
+#search {
+    margin-left: 400px;
+    display: inline-block;
+    padding: 0px;
+    width: 500px; }
+   
+   
+    
+i{
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    color: rgb(255, 255, 255);
+}
+div {
+    display: inline-block;
+    
+}
