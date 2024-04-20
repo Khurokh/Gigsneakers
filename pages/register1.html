@@ -3,10 +3,83 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Registration</title>
+    <style>
+        body {
+            background-image: url("../images/we.jpg");              
+            background-repeat: repeat-y;
+            background-size: 100%;
+        }
+
+        #register{
+            background-color: rgba(0, 0, 0, 0.836);
+            text-align: center;
+            color: aliceblue;
+           height: 660px;
+           width: 400px;
+           margin-top: 140px;
+           margin-left: 760px;
+           display: inline-block;
+          
+          
+        
+        }
+        #input {
+            text-align: center;
+            margin: 25px;
+            
+            
+            
+        }
+        label {
+            font-size: 20px;
+            
+        }
+        #submit {
+            background-color: rgba(0, 0, 0, 0.836);
+            color: aliceblue;
+            width: 100px;
+            height: 40px;
+            font-size: 17px;
+            padding: 10px;
+            font-size: 20px;
+        }
+        input {
+            border: 1px solid rgba(0, 0, 0, 0.836);
+            border-radius: 40px;
+            height: 30px;
+            width: 200px;
+            background-color: rgba(0, 0, 0, 0.836);
+            color: aliceblue;
+        }
+        a {
+            color: aliceblue;
+        }
+    </style>
 </head>
 <body>
-    dadad
     
+    <div id="register">
+        <div>
+            <h1>Registration</h1> <hr />
+        </div>
+        <div id="input"> <form>
+            <label for="name">First name</label> <br /> <br />
+            <input id="das" type="text" name="Name" id="name"> <br /> <br />
+            <label for="lastname">Last name</label> <br /> <br />
+            <input type="text" name="Lastname" id="lastname"> <br /> <br />
+            <label for="Username">Username</label> <br /> <br />
+            <input type="text" name="Username" id="Username"> <br /> <br />
+            <label for="email">Email</label> <br /><br />
+            <input type="email" name="email" id="email" required ><br /><br />
+            <label for="password">Password</label> <br /><br />
+            <input type="password" name="password" id="password"> <br /><br /> 
+            <input id="submit" type="submit" name="submit" id="submit" value="Register"> <br />
+            Already have an account? <br />
+             <a href="Login.html" target="_blank">Log in here</a></div>
+            </form>
+            
+        </div>
+    </div>
 </body>
 </html>
