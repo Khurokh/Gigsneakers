@@ -208,10 +208,10 @@ u{
     color: red;
 }
 #search {
-    margin-left: 400px;
-    display: inline-block;
-    padding: 0px;
-    width: 500px; }
+    background-color: aliceblue;
+    border: 10px solid aliceblue;
+    border-radius: 50px;
+     }
    
    
     
@@ -222,10 +222,9 @@ i{
 h2{
     color: rgb(255, 255, 255);
 }
-div {
-    display: inline-block;
+
     
-}
+
 #register {
     width: 150px;
     background-color: black;
@@ -251,3 +250,20 @@ div {
 
 
 }
+
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    align-items: center;
+    padding: 30px;
+    justify-content: space-around;
+    background-color: black;
+    margin: 20px;
+    border: 3px solid black;
+    border-radius: 90px;
+}
+
+
+
